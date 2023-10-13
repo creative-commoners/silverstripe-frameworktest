@@ -36,8 +36,6 @@ class TestReactFormBuilder extends LeftAndMain
     }
 
     /**
-     * @todo Implement on client
-     *
      * @param bool $unlinked
      * @return ArrayList
      */

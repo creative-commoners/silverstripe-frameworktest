@@ -59,9 +59,7 @@ use SilverStripe\Core\Manifest\ModuleResourceLoader;
  *
  * Flush and run:
  * /dev/tasks/FTFileMakerTask?flush&reset=1
- *
- * @todo Automatically retrieve file listing from S3
- * @todo Handle HTTP errors from S3
+ * 
  */
 class FTFileMakerTask extends BuildTask
 {

@@ -13,8 +13,6 @@ use DNADesign\Elemental\Models\BaseElement;
 /**
  * Creates sample page structure, useful to test tree performance,
  * UI behaviour on deeply nested pages etc.
- *
- * @todo Allow passing in counts
  */
 class FTPageMakerTask extends BuildTask
 {
